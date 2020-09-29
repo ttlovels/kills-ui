@@ -1,23 +1,14 @@
 # kills-ui
-
-## Project setup
-```
 npm install
+=======
+```
+npm install kills-ui --save
 ```
 
-### Compiles and hot-reloads for development
+license
+=======
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+MIT
 ```
 
 ### Customize configuration

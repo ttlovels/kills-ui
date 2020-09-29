@@ -1,7 +1,12 @@
 .DS_Store
 node_modules
 /dist
-
+public
+.browserslistrc
+.eslintrc.js
+.babel.config.js
+.vue.config.js
+examples
 
 # local env files
 .env.local
